@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='10.0' maintenanceversion='1.0'
+ replicaid='432586BC004B5B3A'>
+<noteinfo noteid='16e' unid='CABDCF1ACDC9AF30432586BC004B6ECF' sequence='2'>
+<created><datetime>20210419T164355,67+03</datetime></created>
+<modified><datetime>20210419T164408,18+03</datetime></modified>
+<revised><datetime>20210419T164408,16+03</datetime></revised>
+<lastaccessed><datetime>20210419T164408,16+03</datetime></lastaccessed>
+<addedtofile><datetime>20210419T164355,97+03</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Nikolay Gorbunov/O=SVO</name></updatedby>
+<wassignedby><name>CN=Nikolay Gorbunov/O=SVO</name></wassignedby>
+<item name='$HTMLCode' sign='true'>
+<rawitemdata type='1'>
+X/8QAAIADwAHAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$TITLE'><text>NikolayGorbunov</text></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$Info' sign='true'>
+<rawitemdata type='1'>
+hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+</rawitemdata></item>
+<item name='$Flags'><text/></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item>
+<item name='$$ScriptName' summary='false' sign='true'><text>NikolayGorbunov</text></item>
+<item name='$Body' sign='true'>
+<rawitemdata type='1'>
+gQKC/1oAAQAAAAAAAAAAAKAFAACgBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAABAAAAAJSHAAAAAAAAAAAAAAAAAQAAAAQAAACDBAEAhf8WAAEAABIFzQXoBeoF7gXr
+BeAF6Q==
+</rawitemdata></item></note>
+
