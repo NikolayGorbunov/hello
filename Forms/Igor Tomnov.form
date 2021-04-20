@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.8'
+ replicaid='432586BC0051A51A'>
+<noteinfo noteid='256' unid='6BC807B7F0169AAC432586BD001C6099' sequence='2'>
+<created><datetime>20210420T080957,37+03</datetime></created>
+<modified><datetime>20210420T081054,75+03</datetime></modified>
+<revised><datetime>20210420T081054,74+03</datetime></revised>
+<lastaccessed><datetime>20210420T081054,75+03</datetime></lastaccessed>
+<addedtofile><datetime>20210420T080957,58+03</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Igor V Tomnov/O=SVO</name></updatedby>
+<wassignedby><name>CN=Igor V Tomnov/O=SVO</name></wassignedby>
+<item name='$HTMLCode' sign='true'>
+<rawitemdata type='1'>
+X/8QAAIADwAHAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$TITLE'><text>Igor Tomnov</text></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$Info' sign='true'>
+<rawitemdata type='1'>
+hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+</rawitemdata></item>
+<item name='$Flags'><text/></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item>
+<item name='$Fonts'>
+<rawitemdata type='1'>
+i/8oAAEABRZGb290bGlnaHQgTVQgTGlnaHQAAAAAAAAAAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$$ScriptName' summary='false' sign='true'><text>Igor Tomnov</text></item>
+<item name='$Body' sign='true'>
+<rawitemdata type='1'>
+gQKC/1oAAQAAAAAAAAAAAKAFAACgBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAABAAAAAJSHAAAAAAAAAAAAAAAAAQAAAAQAAACDBAEAhf8IAAEAAAqBAoMEAQCF/wgA
+AQAACoECgwQBAIX/CAABAAAKgQKDBAEA3QYAAIX/hf8TAAUBiSRJZ29yIFRvbW5vdgDSCAEAACG/
+AN4GAACF/4ECgwQBAN0GAACF/4X/CAAFAYkk0ggBAAAhvwDeBgAAhf+BAoMEAQDdBgAAhf+F/wgA
+BQGJJNIIAQAAIb8A3gYAAIX/
+</rawitemdata></item></note>
+
