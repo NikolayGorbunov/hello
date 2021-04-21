@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<form name='dbaryshnikov' xmlns='http://www.lotus.com/dxl' version='11.0'
+ maintenanceversion='1.0' replicaid='432586BC00528D50' publicaccess='false'
+ designerversion='8.5.3' renderpassthrough='true'>
+<noteinfo noteid='16e' unid='39A70D928F8C46FE432586BE002A253F' sequence='2'>
+<created><datetime>20210421T104020,47+03</datetime></created>
+<modified><datetime>20210421T104036,74+03</datetime></modified>
+<revised><datetime>20210421T104036,73+03</datetime></revised>
+<lastaccessed><datetime>20210421T104036,73+03</datetime></lastaccessed>
+<addedtofile><datetime>20210421T104022,09+03</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Dmitrii Baryshnikov/O=tps</name></updatedby>
+<wassignedby><name>CN=Dmitrii Baryshnikov/O=tps</name></wassignedby>
+<body><richtext>
+<pardef id='1'/>
+<par def='1'>Дмитрий Барышников</par></richtext></body>
+<item name='$$ScriptName' summary='false' sign='true'><text>dbaryshnikov</text></item></form>
+
